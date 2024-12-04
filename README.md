@@ -32,6 +32,6 @@ NOTE: The data used in this crud app is in the product table inside the app-crud
 9. To access it, open browser, type: localhost/8000 
 note: make sure both terminal is on, and dont forget to cd to your folder project before run the command
 
-Demo Video: https://drive.google.com/file/d/17vqVhI1qvLOgRoz7DY8JrPYwHUqrqVCy/view?usp=sharing
+Demo Video: https://drive.google.com/file/d/1JR4rRayNPpn5d-BVw7me3Pt0inCNeT5N/view?usp=sharing
 
 In welcome page, please register first then login
